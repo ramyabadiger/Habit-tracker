@@ -29,13 +29,13 @@ st.markdown("""
 
 /* Main title */
 h1 {
-    color: #6A35B5;
+    color: #3D176E;
     font-weight: 800;
 }
 
 /* Section headings */
 h2, h3 {
-    color: #7541B8;
+    color: #54258F;
 }
 
 /* Buttons */
